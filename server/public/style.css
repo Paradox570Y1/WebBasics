@@ -1,0 +1,28 @@
+body{
+    margin:20px 10px;
+    font-size: 20px;
+}
+.container {
+    
+}
+.container-fluid {
+
+}
+header{
+    text-align:center;
+    font-size: 30px;
+}
+div{
+    background-color: lightgrey;
+    margin: 15px;
+    font-weight: 600;
+}
+
+table {
+    margin: auto;
+}
+table,tr,td,th{
+    font-size: 15px;
+    border: 1px solid black;
+    border-collapse:collapse;
+}
